@@ -21,7 +21,8 @@ It detects whether your device is connected to the internet (via Wi-Fi or mobile
 |--------|-------------|
 | Connected | 🟢 *Shows “You are connected to Wi-Fi”* |
 | Disconnected | 🔴 *Shows “No Internet Connection”* |
-<img width="446" height="859" alt="Capture d'écran 2025-10-23 152557" src="https://github.com/user-attachments/assets/8b19a4f6-a119-428c-a4c4-c6f2613851f1" />
+<img width="446" height="859" alt="Capture d'écran 2025-10-23 152557" src="https://github.com/user-attachments/assets/8b19a4f6-a119-428c-a4c4-c6f2613851f1" /> ![Uploading image.png…]()
+
 
 
 
